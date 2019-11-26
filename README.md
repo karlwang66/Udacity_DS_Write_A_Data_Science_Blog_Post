@@ -1,4 +1,4 @@
-# Udacity_DS_Write_A_Data_Science_Blog_Post - 
+# Udacity_DS_Write_A_Data_Science_Blog_Post
 
 ## Key Steps for Project
 Feel free to be creative with your solutions, but do follow the CRISP-DM process in finding your solutions.
