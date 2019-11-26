@@ -32,20 +32,9 @@ Funded in 2008, Airbnb is an online marketplace for arranging or offering lodgin
 New York City (NYC) is one of the hottest Airbnb markets. With over 8 million population distributed over a land area of about 302.6 square miles, it becomes the most densely populated major city in the United States. In this post, I will conduct exploratory data analysis of the Airbnb New York City dataset and answer the following questions:
 
 1. Market Review.
-  What is the total listing?
-  What is the average price?
-  How many hosts in NYC?
-  How many neighborhoods in NYC?
-  What is the listing for each year?
 2. The relationship between listing, price and NYC boroughs.
-  Which borough has the most listing?
-  Which borough has the highest average daily price?
 3. The relationship between listing, price and NYC neighborhood.
-  Which neighborhood has the most listing?
-  Which neighborhood has the highest average daily price?
 4. The relationship between listing, price and property type.
-  Which property type has the most listing?
-  Which property type has the highest average daily price?
 5. Correlation between daily price and key metrics.
 
 ## Dataset 
